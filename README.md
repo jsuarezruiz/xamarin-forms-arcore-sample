@@ -4,6 +4,8 @@ Xamarin.Forms  application that makes use Wave Engine, cross platform game engin
 
 <img src="images/editor.png" alt="Editor" Width="800" />
 
+More information: [https://blog.xamarin.com/augmented-reality-xamarin-android-arcore](https://blog.xamarin.com/augmented-reality-xamarin-android-arcore)/
+
 ## Screens
 
 <img src="images/arcore-xamarin-forms.gif" Width="420" /> 
